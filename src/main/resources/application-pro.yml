@@ -38,7 +38,7 @@ remote :
 
 
 keycloak :
-  auth-server-url : http://keycloak.apps.hzocp.sandbox801.opentlc.com/auth
+  auth-server-url : http://keycloak-keycloak.apps.hzocp.sandbox1661.opentlc.com/auth
   realm: springbootdemo
   resource : springbootdemo
   public-client: true
